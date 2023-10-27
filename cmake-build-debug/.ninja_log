@@ -1,0 +1,6 @@
+# ninja log v5
+10	164	7201284691315759	CMakeFiles/MPI.dir/main.cpp.obj	c8c1ca2d5b73e60a
+0	51	7201289687388957	CMakeFiles/openmpi_test.dir/main.cpp.obj	7cd2f5b2e984ba45
+7	68	7201290720144717	CMakeFiles/openmpi_test.dir/main.cpp.obj	7cd2f5b2e984ba45
+0	365	7201290723133215	CMakeFiles/openmpi_test.dir/openmpi_hello.cpp.obj	e0d999fde7dc6209
+366	452	7201290723965422	openmpi_test.exe	49ad7fe81c1aa8e1

@@ -1,0 +1,3 @@
+C:/Users/German/CLionProjects/MPI/cmake-build-debug/CMakeFiles/openmpi_test.dir
+C:/Users/German/CLionProjects/MPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/German/CLionProjects/MPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
